@@ -4,7 +4,7 @@
 # Sobre
 O algoritmo de Huffman é uma técnica popular de compressão de dados que permite reduzir o tamanho de arquivos de forma eficiente, sem perda de informações. Foi desenvolvido por David A. Huffman em 1952.
 
-Como Funciona
+##Como Funciona
 O algoritmo de Huffman opera com base na frequência de ocorrência de símbolos em um conjunto de dados. Ele segue estas etapas:
 
 Contagem de Frequência: Analisa o conjunto de dados e registra a frequência de cada símbolo (caracteres, pixels, etc.).
